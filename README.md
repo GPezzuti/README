@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GPezzuti
+- 👀 I’m interested in Data Science, AI, IoT, Crypto and Technology in general.
